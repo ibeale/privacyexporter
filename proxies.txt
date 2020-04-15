@@ -1,0 +1,7 @@
+104.194.9.133:4168:private:stuff
+104.194.9.133:4169:private:stuff
+104.194.9.133:4170:private:stuff
+104.194.9.133:4171:private:stuff
+104.194.9.133:4172:private:stuff
+104.194.9.133:4173:private:stuff
+104.194.9.133:4174:private:stuff
